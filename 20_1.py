@@ -1,4 +1,4 @@
-# Write a Python generator class to generate all the even numbers upto n
+# Write a Python generator to print all the even numbers upto n
 
 def genEven(n):
     for i in range (0 ,n+1):
